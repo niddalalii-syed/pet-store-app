@@ -58,7 +58,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 obscureText: _isObscured,
                 width: ScreenSizeUtil.getWidth(context) * 0.8,
                 controller: _passwordController,
-                hintText: 'Enter your password...',
+                hintText: 'Please enter your password...',
               ),
               SizedBox(
                 height: 30,
