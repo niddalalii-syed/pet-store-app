@@ -105,7 +105,7 @@ class _LoginScreenState extends State<LoginScreen> {
                       }));
                     },
                     child: Text(
-                      'Create Now!',
+                      'Wanna!',
                       style: TextStyle(
                         color: Colors.blue, // Change color to match your design
                         decoration: TextDecoration.underline,
